@@ -23,5 +23,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 }
 ```
 
-### Sample Output
+### Sample Output Screenshot
 ![Snapshot](https://github.com/beheshtraya/json-viewer/raw/main/test-result.png "Sample Output")
