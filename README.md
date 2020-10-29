@@ -9,7 +9,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-Test data:
+### Sample Test Data:
 ```
 {
     "Some Name": { 
@@ -23,3 +23,5 @@ Test data:
 }
 ```
 
+### Sample Output
+![Snapshot](https://github.com/beheshtraya/json-viewer/raw/main/test-result.png "Sample Output")
