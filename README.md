@@ -2,6 +2,10 @@
 This is a React app to convert dynamic JSON to HTML list.
 
 
+## Main Component
+[json-viewer.js](https://github.com/beheshtraya/json-viewer/blob/main/src/json-viewer.js)
+
+
 ## Start App
 ### `npm start`
 
